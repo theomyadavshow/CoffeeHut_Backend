@@ -1,1 +1,4 @@
 - Loyal customers: Frequent buyers
+- Daily users: Purchase every day
+- Monthly users: Purchase once a month
+- Quarterly users: Purchase every three months
