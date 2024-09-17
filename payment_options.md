@@ -1,0 +1,1 @@
+- Coffeehut_Wallet: Earn loyalty points
