@@ -1,1 +1,4 @@
 - Coffeehut_Wallet: Earn loyalty points
+- Credit Card
+- Debit Card
+- Net Banking
